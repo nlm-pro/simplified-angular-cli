@@ -1,74 +1,51 @@
-## [0.0.7](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.6...v0.0.7) (2019-01-20)
-
-
-### Features
-
-* permit to use another schematic collection ([19236ba](https://github.com/noelmace/simplified-angular-cli/commit/19236ba))
-* schematic comman ([8f7766d](https://github.com/noelmace/simplified-angular-cli/commit/8f7766d))
-* use cwd for schematics project ([3803c4e](https://github.com/noelmace/simplified-angular-cli/commit/3803c4e))
-
-
-
-## [0.0.6](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.5...v0.0.6) (2019-01-19)
-
+## [0.0.7](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.6...v0.0.7) (2019-01-20)
 
 ### Features
 
-* handle cli arguments for architect ([9c7a484](https://github.com/noelmace/simplified-angular-cli/commit/9c7a484))
+* permit to use another schematic collection ([af77be9](https://github.com/nlm-pro/simplified-angular-cli/commit/af77be9))
+* schematic command ([0ac2135](https://github.com/nlm-pro/simplified-angular-cli/commit/0ac2135))
+* use cwd for schematics project ([bacf180](https://github.com/nlm-pro/simplified-angular-cli/commit/bacf180))
 
-
-
-## [0.0.5](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.4...v0.0.5) (2019-01-17)
-
+## [0.0.6](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.5...v0.0.6) (2019-01-19)
 
 ### Features
 
-* handle all "simple" architect commands ([816aa78](https://github.com/noelmace/simplified-angular-cli/commit/816aa78))
-* run architect ([09dab86](https://github.com/noelmace/simplified-angular-cli/commit/09dab86))
-* use [@angular-devkit](https://github.com/angular-devkit)/architect to retrieve builder configuration ([bab3d0f](https://github.com/noelmace/simplified-angular-cli/commit/bab3d0f))
+* handle cli arguments for architect ([c09737e](https://github.com/nlm-pro/simplified-angular-cli/commit/c09737e))
 
+## [0.0.5](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.4...v0.0.5) (2019-01-17)
 
+### Features
 
-## [0.0.4](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.3...v0.0.4) (2019-01-17)
+* handle all "simple" architect commands ([816aa78](https://github.com/nlm-pro/simplified-angular-cli/commit/816aa78))
+* run architect ([5333656](https://github.com/nlm-pro/simplified-angular-cli/commit/5333656))
+* use [@angular-devkit](https://github.com/angular-devkit)/architect to retrieve builder configuration ([7a1db41](https://github.com/nlm-pro/simplified-angular-cli/commit/7a1db41))
 
+## [0.0.4](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.3...v0.0.4) (2019-01-17)
 
 ### Bug Fixes
 
-* validate command exist ([b1efcea](https://github.com/noelmace/simplified-angular-cli/commit/b1efcea))
-
-
-### Features
-
-* get architect config ([99ba977](https://github.com/noelmace/simplified-angular-cli/commit/99ba977))
-* get config using [@angular-devkit](https://github.com/angular-devkit)/core ([b7c9a84](https://github.com/noelmace/simplified-angular-cli/commit/b7c9a84))
-* read workspace configuration ([32914f9](https://github.com/noelmace/simplified-angular-cli/commit/32914f9))
-
-
-
-## [0.0.3](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.2...v0.0.3) (2019-01-16)
-
+* validate command exist ([098b0f0](https://github.com/nlm-pro/simplified-angular-cli/commit/098b0f0))
 
 ### Features
 
-* define what a command should do ([a8412b3](https://github.com/noelmace/simplified-angular-cli/commit/a8412b3))
+* get architect config ([4226be6](https://github.com/nlm-pro/simplified-angular-cli/commit/4226be6))
+* get config using [@angular-devkit](https://github.com/angular-devkit)/core ([0ce360e](https://github.com/nlm-pro/simplified-angular-cli/commit/0ce360e))
+* read workspace configuration ([a987cf3](https://github.com/nlm-pro/simplified-angular-cli/commit/a987cf3))
 
-
-
-## [0.0.2](https://github.com/noelmace/simplified-angular-cli/compare/v0.0.1...v0.0.2) (2019-01-16)
-
-
-### Features
-
-* identify a command to run ([596cbf9](https://github.com/noelmace/simplified-angular-cli/commit/596cbf9))
-
-
-
-## [0.0.1](https://github.com/noelmace/simplified-angular-cli/compare/00fca60...v0.0.1) (2019-01-16)
-
+## [0.0.3](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.2...v0.0.3) (2019-01-16)
 
 ### Features
 
-* binary file and index ([00fca60](https://github.com/noelmace/simplified-angular-cli/commit/00fca60))
+* define what a command should do ([898d5e8](https://github.com/nlm-pro/simplified-angular-cli/commit/898d5e8))
 
+## [0.0.2](https://github.com/nlm-pro/simplified-angular-cli/compare/v0.0.1...v0.0.2) (2019-01-16)
 
+### Features
 
+* identify a command to run ([b047b22](https://github.com/nlm-pro/simplified-angular-cli/commit/b047b22))
+
+## [0.0.1](https://github.com/nlm-pro/simplified-angular-cli/compare/8ea7975...v0.0.1) (2019-01-16)
+
+### Features
+
+* binary file and index ([df599e0](https://github.com/nlm-pro/simplified-angular-cli/commit/df599e0))
